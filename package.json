@@ -1,0 +1,25 @@
+{
+  "name": "bajaj_assignment",
+  "version": "1.0.0",
+  "description": "bajaj_assignment",
+  "main": "api/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theinterestingdev/bajaj_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theinterestingdev/bajaj_assignment/issues"
+  },
+  "homepage": "https://github.com/theinterestingdev/bajaj_assignment#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "serverless-http": "^3.2.0"
+  }
+}
